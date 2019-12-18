@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MyAngularOne
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -29,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 =======
 # myAngularOne
 This repo contains first angular application.
->>>>>>> c677290af4024e80d9ff8e8241d0dd1c98db4902
+
+Also contains the string interpolation, property binding and two way binding.
